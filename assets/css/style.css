@@ -192,7 +192,7 @@ a {
     justify-content: center;
     font-family: 'SF Pro Display'; 
     font-weight: 700;
-    font-size: 24px;
+    font-size: 20px;
     transition: .3s;
     outline: none;
 }
@@ -363,7 +363,7 @@ a.btn_active,
   width: max-content;
   padding: 0 50px;
   margin: auto;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .hero-wrp h3 {
   font-weight: 800;
