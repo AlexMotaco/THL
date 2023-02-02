@@ -1,5 +1,14 @@
 /*   Book event calendar css */
-
+.appointment_widgets-md {
+    align-items: center;
+    background: #fff;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    overflow-y: auto;
+    padding-top: 1rem!important;
+    background-color: black!important;
+}
 
 .appointment_widgets-md .appointment_widgets--booking .appointment_widgets--info {
     border-right: 1px solid var(--appointment_widgets-border-color);
