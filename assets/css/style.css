@@ -1,3 +1,20 @@
+/*   Book event calendar css */
+
+
+.appointment_widgets-md .appointment_widgets--booking .appointment_widgets--info {
+    border-right: 1px solid var(--appointment_widgets-border-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.5rem
+rem
+;
+    width: 100%;
+    background-color: black !important;
+}
+
+
+
 /*   Theme default css */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap'); 
 @font-face {
